@@ -1,0 +1,10 @@
+com\example\ludo\controller\GameController$CreateRequest.class
+com\example\ludo\controller\WebSocketController$Action.class
+com\example\ludo\config\WebSocketConfig.class
+com\example\ludo\model\GameState$Player.class
+com\example\ludo\model\GameState.class
+com\example\ludo\LudoApplication.class
+com\example\ludo\controller\GameController$JoinRequest.class
+com\example\ludo\service\GameService.class
+com\example\ludo\controller\GameController.class
+com\example\ludo\controller\WebSocketController.class
